@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SuperMegaRPG/SuperMegaRPG.vcxproj" Id="2e73e201-a9d8-4c33-947c-539e9092db54" />
+</Solution>
